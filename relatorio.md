@@ -9,14 +9,14 @@
 | ------------------------- | ------ | ------ |
 | Branch Principal          | 0     | Falhou |
 | Presença de Commit        | 25     | Passou |
-| Existência do Resume.txt  | 0     | Falhou |
-| Conteúdo do Resume.txt    | 0     | Falhou |
+| Existência do Resumo.txt  | 0     | Falhou |
+| Conteúdo do Resumo.txt    | 0     | Falhou |
 
 
 ## Sugestões para Melhoria:
 - **Branch Principal**: Certifique-se de fazer o push da `main` branch e verificar se ela existe no seu repositório.
-- **Existência do resume.txt**: Certifique-se de que o arquivo `resume.txt` foi adicionado na raiz do diretório e contém conteúdo significativo.
-- **Conteúdo do Resume**: Garanta que o `resume.txt` contenha pelo menos três linhas com informações relevantes.
+- **Existência do resumo.txt**: Certifique-se de que o arquivo `resumo.txt` foi adicionado na raiz do diretório e contém conteúdo significativo.
+- **Conteúdo do Resumo**: Garanta que o `resumo.txt` contenha pelo menos três linhas com informações relevantes.
 
 ## Feedback Detalhado:
 
@@ -25,5 +25,5 @@ Continue com o bom trabalho! Foque nas áreas mencionadas acima e você terá um
 
 ---
 
-*Relatório gerado em 2025-04-04 17:03:12*
+*Relatório gerado em 2025-04-04 17:11:19*
     
