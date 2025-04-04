@@ -1,1 +1,7 @@
-CnwgVmVyaWZpY2HDp8OjbyAgICAgICAgICAgICAgIHwgUG9udG9zIHwgU3RhdHVzIHwKfCAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tIHwgLS0tLS0tIHwgLS0tLS0tIHwKfCBCcmFuY2ggUHJpbmNpcGFsICAgICAgICAgIHwgMCAgICAgfCBGYWxob3UgfAp8IFByZXNlbsOnYSBkZSBDb21taXQgICAgICAgIHwgMjUgICAgIHwgUGFzc291IHwKfCBFeGlzdMOqbmNpYSBkbyBSZXN1bWUudHh0ICB8IDAgICAgIHwgRmFsaG91IHwKfCBDb250ZcO6ZG8gZG8gUmVzdW1lLnR4dCAgICB8IDAgICAgIHwgRmFsaG91IHwK
+
+| Verificação               | Pontos | Status |
+| ------------------------- | ------ | ------ |
+| Branch Principal          | 0     | Falhou |
+| Presença de Commit        | 25     | Passou |
+| Existência do Resume.txt  | 0     | Falhou |
+| Conteúdo do Resume.txt    | 0     | Falhou |
